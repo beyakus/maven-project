@@ -1,2 +1,3 @@
-Hello, World!,
-Daniel Garcia
+<h1>Hello, World!,</h1>
+<br>
+<h3>Daniel Garcia</h3>
