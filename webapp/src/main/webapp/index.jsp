@@ -1,3 +1,1 @@
-<h1>Hello, World!,</h1>
-<br>
-<h3>Nueva actualizacion</h3>
+<h1>Hola mundo</h1>
